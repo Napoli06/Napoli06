@@ -1,4 +1,4 @@
-# Olá, eu sou Davi Campos 👋
+# Olá, eu sou Davi Napoli 👋
 
 Sou estudante do 3º e último ano do curso de Desenvolvimento de Sistemas na Etec de Peruíbe. Tenho foco em desenvolvimento web e mobile, banco de dados e no uso de Inteligência Artificial para aumentar produtividade, otimizar projetos e apoiar o brainstorming. Estou sempre buscando aprender novas tecnologias e desenvolver soluções que gerem impacto real.
 
